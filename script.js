@@ -1,0 +1,1 @@
+document.getElementById('m').onclick=()=>document.getElementById('nav').classList.toggle('show');
